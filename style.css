@@ -390,19 +390,17 @@ a {
     .section-hero-headline {
         letter-spacing: -5px;
         white-space: normal;
-        font-size: 94px;
+        font-size: 76px;
         line-height: 102px;
     }
 
-    img {
-        width: 470px;
-        height: 400px;
-        background-size: cover;
-    }
-
+  
     .home-hero-greating-text {
         font-size: 24px;
         font-weight: 500;
+    }
+    .text-sm{
+        font-size: 14px;
     }
 
     .button-circle-text {
@@ -497,8 +495,8 @@ a {
     }
 
     .home-hero-image,.editor{
-        max-width: 350px;
-        min-height: 350px;
+        max-width: 350px !important;
+        min-height: 350px !important;
     }
 
     
