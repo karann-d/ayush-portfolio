@@ -523,5 +523,8 @@ span:hover::after {
     .home-hero-image {
         max-width: 100%;
     }
+    .accordion-button {
+        font-size: 18px !important;
+    }
 
 }
