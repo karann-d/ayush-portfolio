@@ -424,7 +424,7 @@ a {
     .section-hero-headline {
         letter-spacing: -5px;
         white-space: normal;
-        font-size: 85px;
+        font-size: 65px;
         line-height: 102px;
     }
 
@@ -536,7 +536,7 @@ a {
     }
 
     .accordion-button {
-        font-size: 18px !important;
+        font-size: 17px !important;
     }
 
 }
